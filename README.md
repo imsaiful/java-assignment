@@ -1,5 +1,5 @@
 # java-assignment
-Assignment: Generate randoem value between limits and calcuate the frequesncy of the random generated element by hash map data structure 
+Assignment: Generate random value between limits and calcuate the frequesncy of the random generated element by hash map data structure 
 Guide: Prakash Rao sir
 ```
 import java.util.*;
